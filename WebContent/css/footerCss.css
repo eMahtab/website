@@ -1,0 +1,26 @@
+.footul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.footli {
+    float:left;
+}
+
+.foota:link, .foota:visited {
+    display: block;
+    width: 140px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #080707;
+    text-align: center;
+    padding: 6px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.foota:hover, .foota:active {
+    background-color: #7A991A;
+}
